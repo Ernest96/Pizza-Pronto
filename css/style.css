@@ -60,6 +60,7 @@ main {
     padding: 18px 7%;
     border-left: 2px solid brown;
     box-shadow: inset 0px 0px 8px black;
+    background-attachment: fixed;
 }
 
 aside a {
